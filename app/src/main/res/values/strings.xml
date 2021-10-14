@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="empty"></string>
+    <string name="ViewTasks">View Tasks</string>
+    <string name="CreateTask">Create a Task</string>
+    <string name="No_of_tasks_0">You have 0 tasks</string>
+    <string name="No_of_tasks">You have</string>
+    <string name="task"> tasks</string>
+    <string name="Task_Info">Task Information</string>
+    <string name="Name">Name:</string>
+    <string name="Date">Date:</string>
+    <string name="Priority">Priority:</string>
+    <string name="Upcoming_Tasks">Upcoming Tasks</string>
+    <string name="Homework">Homework</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Delete">Delete</string>
+    <string name="Task_Name">Task Name</string>
+    <string name="Set_Date">Set date</string>
+    <string name="High">High</string>
+    <string name="Medium">Medium</string>
+    <string name="Low">Low</string>
+    <string name="Submit">Submit</string>
+    <string name="Cancel_Toast">Cancel Button Was Clicked!</string>
+    <string name="Delete_Toast">Deleted Successfully!</string>
+    <string name="Delete_U_Toast">Deleted Unsuccessfully!</string>
+    <string name="date_error">Error: Please select Date</string>
+    <string name="name_error">Error: Please Enter Task Name</string>
+    <string name="priority_error">Error: Please select priority</string>
+    <string name="DatePicker">Select date</string>
+    <string name="TODOLIST">To Do List</string>
+    <string name="DisplayPage">Display Task</string>
+    <string name="CreateTaskPage">Create Task</string>
+    <string name="deleteTitle">Are you sure</string>
+    <string name="deleteMessage">Are you sure you want to delete it?</string>
+    <string name="viewMessage">Create Some Task to view!</string>
+
+
+
+
+</resources>

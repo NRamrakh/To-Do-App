@@ -3,7 +3,8 @@
 This is an android application. 
 It will allow user to create a task-list, set the date and priority of the task.
 
-**Framework used:** Android studio 
+**IDE used:** Android Studio 
+
 **Languages used:** Xml, Java
 
 
